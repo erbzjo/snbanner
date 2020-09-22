@@ -1,0 +1,47 @@
+
+#snbanner-container{
+  /**background-color: #0076a9;**/
+  background: none;
+  border: none;
+  margin: auto;
+  width: 65%;
+
+}
+#bannerTopLogo {background-color:#0076a9; border:1px solid;}
+
+#sn-fingerLogo{
+
+height:40px;
+width:40px;
+position: relative;
+top: -9px;
+
+}
+
+#bannerTopLabel {
+  background-color:#0076a9;
+  font-family: "Montserrat";
+  color:#fff;
+  font-weight: 600;
+  line-height: 1.5;
+  font-size: 35px;
+  padding:5px;
+}
+
+#bannerBottomMsg{
+  background-color:#74c5e1;
+  text-align: center;
+  padding: 30px;
+  color: black;
+  font-weight: 500;
+}
+
+#bannerBottomButton{
+  background-color:#74c5e1;
+  text-align: left;
+  padding: 30px;
+}
+
+.btn-primary{
+/**background-image: linear-gradient(to right, rgba(255,29,214,215), rgba(255,63,167,227));**/
+}
